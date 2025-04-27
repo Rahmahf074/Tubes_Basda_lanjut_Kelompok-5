@@ -1,0 +1,9 @@
+.hero {
+  background-size: cover;
+  height: 500px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 1px 1px 5px black;
+}
